@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\gcc-15.1.0-gdb\\x86_64-w64-mingw32\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0;C:\\gcc-15.1.0-gdb\\bin;${env:PATH}"
+    }
+}
